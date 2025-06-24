@@ -2,7 +2,7 @@
 <kbd>[ENG English Version](#english-version)</kbd>
 
 
-<h3 align="right">Русская версия</h3>
+<h3 align="right"><a name="русская-версия">Русская версия</a></h3>
 
 # Анализ рынка смартфонов в Индии
 
