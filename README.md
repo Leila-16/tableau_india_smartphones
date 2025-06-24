@@ -1,3 +1,9 @@
+<kbd>[RU Русская версия](#русская-версия)</kbd>  
+<kbd>[ENG English Version](#english-version)</kbd>
+
+
+<h3 align="right">Русская версия</h3>
+
 # Анализ рынка смартфонов в Индии
 
 - В рамках исследования был проведён анализ рынка смартфонов в Индии, включая ассортимент моделей, ценовые сегменты и рейтинг брендов. 
@@ -22,3 +28,36 @@
 [Интерактивная версия](https://public.tableau.com/views/SmartphonesinIndia/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no)
 
 ![Dashboard 1](https://github.com/user-attachments/assets/748b0e58-7b53-41a9-bdea-e89370b298cb)
+
+
+---
+
+<h3 align="right"><a name="english-version">English Version</a></h3>
+
+# Smartphone Market Analysis in India
+
+- This research explores the smartphone market in India, including model variety, price segments, and brand ratings.
+- The data is visualized in Tableau using a public dataset from [Kaggle](https://www.kaggle.com/datasets/chaudharisanika/smartphones-dataset).
+
+---
+
+### Key Findings:
+The analysis showed that more expensive smartphones generally receive higher user ratings. However, many budget models in the sample also scored well, which highlights opportunities in the lower price segments.
+
+For a more in-depth analysis, the top 15 brands by number of models were selected, along with manufacturers known for offering strong "price-to-quality" ratios. One standout is the Blu brand, which offers the best balance between cost and rating—but the downside is that it only features one model, limiting choice.
+
+Most manufacturers offer well-rated smartphones starting at ₹20,000–30,000. The exceptions are premium brands like Apple and Google, which only achieved high ratings with models priced from ₹50,000 and up. For those seeking variety, Xiaomi, Samsung, Vivo, Realme, and Oppo dominate in terms of number of models available on the market.
+
+Leitz deserves special mention—it is the most expensive brand in the dataset and also received the highest user ratings.
+
+No direct correlation was found between smartphone ratings and camera or battery specs. However, among the top-rated devices, models with 4000–5000 mAh batteries and at least 100 GB of memory appeared more frequently. This may suggest certain baseline expectations from users in modern devices.
+
+---
+
+### Visualisation (Dashboard):
+[Interactive version](https://public.tableau.com/views/SmartphonesinIndia/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no)
+
+![Dashboard 1](https://github.com/user-attachments/assets/748b0e58-7b53-41a9-bdea-e89370b298cb)
+
+
+
