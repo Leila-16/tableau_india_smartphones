@@ -11,7 +11,7 @@
 
 ---
 
-### Результаты анализа:
+### Результаты анализа
 Анализ показал, что более дорогие смартфоны, как правило, получают высокие оценки пользователей. Однако, в выборке присутствует немало бюджетных моделей с высоким рейтингом, что открывает возможности для	 выбора в низком ценовом сегменте.
 
 Для глубины исследования были выбраны топ-15 брендов по количеству моделей, а также производители, отличающиеся удачным соотношением "цена/качество". Одним из лидеров стал бренд Blu, который имеет наилучший баланс между стоимостью и рейтингом, однако, линейка представлена только одной моделью, что ограничивает выбор. 
@@ -24,7 +24,7 @@
 
 ---
 
-### Визуализация результатов (дашборд):
+### Визуализация результатов (дашборд)
 [Интерактивная версия](https://public.tableau.com/views/SmartphonesinIndia/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no)
 
 ![Dashboard 1](https://github.com/user-attachments/assets/748b0e58-7b53-41a9-bdea-e89370b298cb)
@@ -41,7 +41,7 @@
 
 ---
 
-### Key Findings:
+### Key Findings
 The analysis showed that more expensive smartphones generally receive higher user ratings. However, many budget models in the sample also scored well, which highlights opportunities in the lower price segments.
 
 For a more in-depth analysis, the top 15 brands by number of models were selected, along with manufacturers known for offering strong "price-to-quality" ratios. One standout is the Blu brand, which offers the best balance between cost and rating—but the downside is that it only features one model, limiting choice.
@@ -54,7 +54,7 @@ No direct correlation was found between smartphone ratings and camera or battery
 
 ---
 
-### Visualisation (Dashboard):
+### Visualisation (Dashboard)
 [Interactive version](https://public.tableau.com/views/SmartphonesinIndia/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link&:showVizHome=no)
 
 ![Dashboard 1](https://github.com/user-attachments/assets/748b0e58-7b53-41a9-bdea-e89370b298cb)
